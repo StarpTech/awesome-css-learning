@@ -89,6 +89,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [Grid Garden](https://cssgridgarden.com) - Lovely game where you write CSS code to grow your carrot garden.
 - [GridBugs](https://github.com/rachelandrew/gridbugs) - Community-curated list of Grid interop issues and workarounds for them.
 - [Grid Critters](https://www.gridcritters.com) - Learn CSS grid layout by mastering an adventure game.
+- [To Grid or to flex](https://css-irl.info/to-grid-or-to-flex/) - Unpack when and where you might want to use Grid or flexbox.
 
 ## Animation
 
